@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Mandaue DTR Mobile",
-    "slug": "dtr-app",
+    "slug": "dtr-app2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -33,15 +33,16 @@
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/icon.png"
       },
-      "package": "com.manuelamanetjr.dtrapp"
+      "package": "com.manuelamanetjr.dtrap2"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "ebf22034-d793-474a-89b1-8acb2e134db5"
+        "projectId": "4982ec42-b6d7-45d6-a0d2-646729b052c1"
       }
-    }
+    },
+    "owner": "manuelamanetjr"
   }
 }
